@@ -1,0 +1,45 @@
+body {
+    background-color: #5275a8  ;
+    
+}
+
+
+h1 {
+    font-family: 'Tilt Prism', cursive;
+    color: #24446b;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 20px
+}
+
+
+#video {
+    padding: 50px 0;
+    text-align: right;
+    width: 690px;
+       margin: 0 auto;
+    padding: 15px;
+    height: 100%;
+}
+
+
+#contenedor-principal {
+    background-color: #a5bcdc;
+    margin: 0% 10%;
+    padding: 2% 2.5% 2.5% 2.5%;
+}
+#columnas {
+    display: flex;
+}
+#texto {
+    width: 60%;
+    margin-left: 40px;
+}
+div {
+    display: block;
+}
+
+img{ 
+    width: 100%;
+     
+}
