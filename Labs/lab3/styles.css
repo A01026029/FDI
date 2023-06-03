@@ -1,0 +1,76 @@
+body {
+    background: url("img/SABILA.png" ) ;
+    
+}
+
+
+
+
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    font-family: 'Tilt Prism', cursive;
+    color: black;
+}
+
+#header ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+#header ul li a {
+    text-align: center;
+    text-decoration: none;
+    background-color: #052908;
+    padding: 15px;
+    color: #97f09e;
+    font-family: 'DynaPuff', cursive;
+    
+}
+
+#header ul li a:hover {
+    background-color: #31c038;
+    text-decoration:line-through;
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+#video {
+    padding: 50px 0;
+    text-align: center;
+    width: 800px;
+    background-color: #057a0f;
+    margin: 0 auto;
+    padding: 15px;
+    height: 100%;
+}
+
+#header h3 {
+    font-family: 'Tilt Prism', cursive;
+    color: black;
+
+}
+
+#header p {
+    font-family: 'Dongle', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Tilt Prism', cursive;
+}
+#header img {
+    width: 40%;
+    
+    
+}
+#foto img {
+    align-content: flex-end;
+    width: 20%;
+    
+      
+    
+      
+
+}
+
+  
