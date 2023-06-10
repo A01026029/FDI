@@ -1,0 +1,111 @@
+html {
+    display: block;
+}
+head {
+    display: none;
+}
+body {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #004fe0;
+    border-width: 2px;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+.header {
+    background-color:  #550404;
+    text-align: center;
+    padding: 5px;
+}
+header {
+    display: block;
+}
+h1 {
+    font-family: 'Caveat', cursive;
+    letter-spacing: 15px;
+    font-size: 40px;
+    margin-bottom: 0px;
+    color: #000000;
+}
+.header p {
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    margin-top: 0px;
+    color: black;
+}
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+
+img {
+    width: 30%;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color:#ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    letter-spacing: 5px;
+    width: 80px;
+}
+nav {
+    display: block;
+}
+
+
+main {
+    text-align: center;
+    background-color: #330202;
+}
+main {
+    display: block;
+}
+
+
+.footer {
+    background-color: #002657;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: #ffffff;
+}
+div.gallery {
+    margin: 5px;
+    border: 2px solid #030303;
+    width: 500px;
+    display: inline-block;
+    font-family: 'Caveat', cursive;
+    font-size: 10px;
+    letter-spacing: 5px;
+}
+div.gallery:hover {
+    border: 1px solid #dba204;
+  }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 20px;
+}
